@@ -8,8 +8,8 @@ Maintainer: Developer by Tuệ Mobi <https://www.facebook.com/kidsauto91>
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./Debs/KidsAutoProv9.0.deb
-Size: 379172
-MD5sum: bea1fa446305dad1ab712ba05f565784
+Size: 374170
+MD5sum: 9f7d12630c80ffd9e240c419855ce14b
 Depends: preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.locationchanger,com.kidsauto.kidsdaemon,com.kidsauto.kidsrestore,com.kidsauto.kidsdeviceinfo,ch.ringwald.hidsupport,jp.ashikase.mousesupport
 
@@ -23,8 +23,8 @@ Maintainer: Developer by Tuệ Mobi <https://www.facebook.com/kidsauto91>
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./Debs/KidsAutoProv901.deb
-Size: 379172
-MD5sum: bea1fa446305dad1ab712ba05f565784
+Size: 374170
+MD5sum: 9f7d12630c80ffd9e240c419855ce14b
 Depends: preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.locationchanger,com.kidsauto.kidsdaemon,com.kidsauto.kidsrestore,com.kidsauto.kidsdeviceinfo,ch.ringwald.hidsupport,jp.ashikase.mousesupport
 
