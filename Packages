@@ -2,11 +2,11 @@
 Name: Screen Dump
 Version: 0.0.3
 Architecture: iphoneos-arm
-Description: VnC Server for Iphone OS <13
+Description: VnC Server for iOS
 Author: Long
 Maintainer: Long
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/com.cosmosgenius.screendump_0.0.3.deb
+Section: Utilities
+Filename: ./Debs/com.cosmosgenius.screendump.deb
 Size: 1187760
 MD5sum: 8d3352da1684c7ce457bb8d2e8bc4523
+
