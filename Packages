@@ -6,7 +6,7 @@ Description: VnC Server for iOS
 Author: Long
 Maintainer: Long
 Section: Utilities
-Filename: ./Debs/com.cosmosgenius.screendump.deb
+Filename: ./file/com.cosmosgenius.screendump.deb
 Size: 1187760
 MD5sum: 8d3352da1684c7ce457bb8d2e8bc4523
 
