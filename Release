@@ -1,11 +1,11 @@
-Origin: KidsAutoProv9.1 Repo
-Label: KidsAutoProv9.1 Repo
+Origin: Tong Hop Tweaks
+Label: Tong Hop Tweaks
 Suite: stable
-Version: 9.1
+Version: 0.0.1
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: KidsAuto Pro v9 for iDevice Model 10.x - 12.2 & 12.4 & Checkra1n Jailbreaks
+Description: 
 MD5Sum:
- f0bc2d0defbe74988bbd4b9e1b847a5f 12698 Packages
- 41af9b7c4dac5431723c19b378550d24 3571 Packages.bz2
+ cd4b705b8537a7d369a75f6008479970 318 Packages
+ ae5f50465f0a6161d62e1a655cf436e4 310 Packages.bz2
